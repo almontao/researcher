@@ -1909,6 +1909,11 @@ textarea.form-control, textarea.form-control:focus {
   margin-right: 5px;
 }
 
+.project-general-info .fas {
+  color: #04b4e0;
+  margin-right: 5px;
+}
+
 .project-general-info p {
   margin: 0;
 }
