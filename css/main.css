@@ -1863,7 +1863,7 @@ textarea.form-control, textarea.form-control:focus {
 
 .ajax-page-title h1 {
   display: inline-block;
-  margin: 0;
+  margin: 1;
 }
 
 .portfolio-block {
