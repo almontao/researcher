@@ -1317,22 +1317,26 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .skills-second-style .skill-container.skill-6 .skill-percentage {
-  width: 80%;
-}
-
-.skills-second-style .skill-container.skill-7 .skill-percentage {
-  width: 80%;
-}
-
-.skills-second-style .skill-container.skill-8 .skill-percentage {
-  width: 60%;
-}
-
-.skills-second-style .skill-container.skill-9 .skill-percentage {
   width: 75%;
 }
 
+.skills-second-style .skill-container.skill-7 .skill-percentage {
+  width: 95%;
+}
+
+.skills-second-style .skill-container.skill-8 .skill-percentage {
+  width: 80%;
+}
+
+.skills-second-style .skill-container.skill-9 .skill-percentage {
+  width: 60%;
+}
+
 .skills-second-style .skill-container.skill-10 .skill-percentage {
+  width: 75%;
+}
+
+.skills-second-style .skill-container.skill-11 .skill-percentage {
   width: 90%;
 }
 
@@ -1905,11 +1909,6 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .project-general-info .fa {
-  color: #04b4e0;
-  margin-right: 5px;
-}
-
-.project-general-info .fas {
   color: #04b4e0;
   margin-right: 5px;
 }
@@ -2870,10 +2869,10 @@ blockquote {
 }
 
 .title-block .sp-subtitle {
-  color: #888;
-  font-size: 21px;
-  font-weight: 300;
-  margin: 5px 0;
+  color: rgb(0, 0, 0);
+  font-size: 60px;
+  line-height: 74px;
+  margin: 0;
   text-align: center;
 }
 
@@ -2977,6 +2976,9 @@ blockquote {
   }
 
   .title-block .sp-subtitle {
-    font-size: 18px;
+    font-size: 36px;
+    line-height: 56px;
+    margin: 0 0 10px;
+    text-align: center;
   }
 }
